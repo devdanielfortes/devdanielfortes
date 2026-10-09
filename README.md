@@ -13,7 +13,7 @@
 <br/>
 <div align="justify">
   
-I’m Daniel Fortes, +2 years of experience in building digital solutions that blend design, performance, and scalability. I’m developing my own startup focused on innovation and technology. <br>
+I’m Daniel Fortes, +3 years of experience in building digital solutions that blend design, performance, and scalability. I’m developing my own startup focused on innovation and technology. <br>
 <br>
 > "I build stuff." - Mark Zuckerberg
 <br>
