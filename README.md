@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B8F3&width=435&lines=Daniel+Fortes%2C+Dev+Full-Stack.)](https://git.io/typing-svg)
 
-### Full-Stack Developer | JavaScript | TypeScript | Node.js 🦁<br>
+### Full-Stack Developer | Java | TypeScript | Assembly 🦁<br>
 <img width="12" />
   <a href="https://www.youtube.com/@devdanielfortes" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="youtube logo"  />
